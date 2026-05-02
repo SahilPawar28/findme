@@ -1,0 +1,18 @@
+# secrets
+.env
+credentials.json
+
+# python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.dist/
+
+# test assets
+selfie.png
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
